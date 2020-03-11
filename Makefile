@@ -10,9 +10,9 @@ TOPDIR ?= $(CURDIR)
 include $(DEVKITARM)/3ds_rules
 
 # App information
-APP_TITLE           :=	fefoSheep
-APP_DESCRIPTION     :=	fefoSheep - bes way 2 git fri gam
-APP_AUTHOR          :=	kekmaster97 & T3CHNOLOG1C
+APP_TITLE           :=	PaidShop
+APP_DESCRIPTION     :=	eShop 2.0 installer
+APP_AUTHOR          :=	kekmaster97, T3CHNOLOG1C & GlaZed
 
 VERSION_MAJOR		:= 1
 VERSION_MINOR		:= 6
@@ -42,7 +42,7 @@ LOGO                :=
 # If left blank, makerom will use default values (0xff3ff and CTR-P-CTAP, respectively)
 # Be careful if UNIQUE_ID is the same as other apps: it will overwrite the previously installed one
 UNIQUE_ID           :=	0xFEF00
-PRODUCT_CODE        :=	CTR-P-FEFO
+PRODUCT_CODE        :=	CTR-P-PA1D
 
 # Don't really need to change this
 ICON_FLAGS          :=	nosavebackups,visible

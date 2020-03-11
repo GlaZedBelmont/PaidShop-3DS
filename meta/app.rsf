@@ -1,7 +1,7 @@
 BasicInfo:
-  Title                   : "fefoSheep"
+  Title                   : "PaidShop"
   CompanyCode             : "00"
-  ProductCode             : "CTR-P-FEFO"
+  ProductCode             : "CTR-P-PA1D"
   ContentType             : Application
   Logo                    : Homebrew # Nintendo / Licensed / Distributed / iQue / iQueForSystem
 
